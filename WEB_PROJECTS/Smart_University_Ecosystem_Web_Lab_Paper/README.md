@@ -328,13 +328,13 @@ All endpoints accept and return **JSON**. Base URL: `/api/`
 
 ## 👨‍💻 Contributors
 
-| Name | Role |
-|------|------|
-| **Zahir Ahmad** | Full-Stack Developer |
+ Name 
+
+ **Zahir Ahmad** 
 
 ---
 
 <p align="center">
   <b>UET Mardan — Department of Computer Software Engineering</b><br>
-  SE-301L Web Engineering Lab | Semester Project
+  SE-301L Web Engineering Lab Paper
 </p>
