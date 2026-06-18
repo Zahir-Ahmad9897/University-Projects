@@ -1,0 +1,2 @@
+# Exclude Composer dependencies
+vendor/
